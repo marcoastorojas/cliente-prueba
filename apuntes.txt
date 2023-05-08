@@ -1,0 +1,13 @@
+https://webdesign.tutsplus.com/es/articles/creating-a-simple-responsive-html-email--webdesign-12978
+
+Mails:
+
+https://github.com/s-ichikawa/laravel-sendgrid-driver
+https://docs.sendgrid.com/for-developers/sending-email/laravel
+https://mailtrap.io/inboxes
+https://app.sendgrid.com/
+
+Tutoriales:
+
+https://www.youtube.com/watch?v=giOjirSYksg
+https://www.youtube.com/watch?v=yrKTAUezkkQ
